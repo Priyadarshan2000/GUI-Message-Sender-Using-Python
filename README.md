@@ -1,4 +1,3 @@
-# GUI Message Sender Using Python
 
 ## Message sender Dailog Box
 ![image](https://user-images.githubusercontent.com/62868878/99901011-78bb5380-2cd9-11eb-917c-f7b5a944fe43.png)
