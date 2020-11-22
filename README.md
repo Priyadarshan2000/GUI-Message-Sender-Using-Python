@@ -1,4 +1,5 @@
-# GUI-Message-Sender-Using-Python
+# GUI Message Sender Using Python
+
 ![image](https://user-images.githubusercontent.com/62868878/99901011-78bb5380-2cd9-11eb-917c-f7b5a944fe43.png)
 
 ![image](https://user-images.githubusercontent.com/62868878/99901026-9e485d00-2cd9-11eb-919b-eafdad673bae.png)
